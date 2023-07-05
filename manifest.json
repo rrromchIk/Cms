@@ -1,0 +1,25 @@
+{
+    "name" : "Students",
+    "short_name" : "Students",
+    "start_url" : "/html/index.html",
+    "display" : "standalone",
+    "background_color" : "#ffffff",
+    "theme_color" : "#ffffff",
+    "icons": [{
+        "src" : "/images/icon_status-offline.png",
+        "type" : "image/png",
+        "sizes" : "25x25"
+    }, {
+        "src" : "/images/icon_status-online.png",
+        "type" : "image/png",
+        "sizes" : "25x25"  
+    }, {
+        "src" : "/images/profile.png",
+        "type" : "image/png",
+        "sizes" : "512x512"
+    }, {
+        "src" : "/images/favicon.ico",
+        "type" : "image/x-icon",
+        "sizes" : "256x256"  
+    }]
+}
