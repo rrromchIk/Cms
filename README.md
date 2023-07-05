@@ -1,4 +1,4 @@
-# CMSProject
+# CMS
 
 
 ## Project description:
